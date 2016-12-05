@@ -1,0 +1,1 @@
+timeout: failed to run command ‘.//home/ishank011/Desktop/online_judge/Submissions/21/ishank011/25/code’: No such file or directory
